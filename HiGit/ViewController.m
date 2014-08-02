@@ -21,6 +21,8 @@
 }
 -(void)viewWillAppear:(BOOL)animated{
     NSLog(@"hi");
+    NSLog(@"creating branch");
+    NSLog(@"complted creating branch and pushong code");
 }
 - (void)didReceiveMemoryWarning
 {
