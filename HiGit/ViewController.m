@@ -20,7 +20,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 -(void)viewWillAppear:(BOOL)animated{
-    NSLog(@"git ignore...");
+    NSLog(@"git ignore...dgffh");
 }
 - (void)didReceiveMemoryWarning
 {
